@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "947478542143",
+    "firebase_url": "https://messageapp-6ceb8.firebaseio.com",
+    "project_id": "messageapp-6ceb8",
+    "storage_bucket": "messageapp-6ceb8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:947478542143:android:9aeedef7a9d00ad89c458a",
+        "android_client_info": {
+          "package_name": "com.example.ted_first"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "947478542143-5phscgsvifq8bd9j3i3seef549q5i0tk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ted_first",
+            "certificate_hash": "fd002e78aa49acf95e9264e34a3ec2da9682bb71"
+          }
+        },
+        {
+          "client_id": "947478542143-6vqt5md7l9fh9dfgjac69glavoshsug7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2CpdyOWeJCzJHLoePU_AFeMtC5FNX0Ws"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "947478542143-6vqt5md7l9fh9dfgjac69glavoshsug7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
